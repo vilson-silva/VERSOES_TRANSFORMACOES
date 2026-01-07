@@ -1,4 +1,0 @@
-ECD/01_BD/01_ECD/README.md
-
-# Pasta 01_ECD
-
