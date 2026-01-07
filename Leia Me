@@ -1,1 +1,10 @@
-Central onde ficarão armazenados os outros projetos
+Visão Geral
+Este repositório centraliza as transformações, filtros e artefatos relacionados aos projetos ECD/ECF, organizados em uma arquitetura padronizada de diretórios (ECD) e controlados por um fluxo de versionamento via branches:
+
+main → Stable: versões validadas e prontas para distribuição/produção.
+dev → Desenvolvimento: trabalho diário, ajustes e testes em andamento.
+
+
+Objetivo: garantir padronização, rastreabilidade e facilidade de distribuição em múltiplos clientes/ambientes.
+
+ Estrutura de Diretórios (ECD)
